@@ -1,0 +1,214 @@
+[1]MainThread: -------------Exam Day----------------
+[0]Student 1 : Arrives school.
+[0]Student 2 : Arrives school.
+[0]Student 3 : Arrives school.
+[0]Student 4 : Arrives school.
+[0]Student 5 : Arrives school.
+[1]Student 6 : Arrives school.
+[1]Student 7 : Arrives school.
+[1]Student 8 : Arrives school.
+[1]Student 9 : Arrives school.
+[1]Student 10 : Arrives school.
+[1]Student 12 : Arrives school.
+[1]Student 11 : Arrives school.
+[1]Student 13 : Arrives school.
+[1]Student 14 : Arrives school.
+[296]Student 4 : Waiting for the instructor.
+[375]Student 11 : Waiting for the instructor.
+[399]Student 10 : Waiting for the instructor.
+[461]Student 13 : Waiting for the instructor.
+[470]Student 14 : Waiting for the instructor.
+[857]Student 5 : Waiting for the instructor.
+[871]Student 2 : Waiting for the instructor.
+[1144]Student 9 : Waiting for the instructor.
+[1583]Student 3 : Waiting for the instructor.
+[1774]Student 1 : Waiting for the instructor.
+[2141]Student 7 : Waiting for the instructor.
+[2160]Student 8 : Waiting for the instructor.
+[2319]Student 12 : Waiting for the instructor.
+[2646]Instructor: Arrive, open the door.
+[2644]Student 4 : Enter the classroom, Classroom have 1 students.
+[2645]Student 12 : Enter the classroom, Classroom have 2 students.
+[2645]Student 11 : Enter the classroom, Classroom have 3 students.
+[2645]Student 10 : Enter the classroom, Classroom have 4 students.
+[2645]Student 13 : Enter the classroom, Classroom have 5 students.
+[2645]Student 14 : Enter the classroom, Classroom have 6 students.
+[2645]Student 5 : Enter the classroom, Classroom have 7 students.
+[2645]Student 2 : Enter the classroom, Classroom have 8 students.
+[2646]Student 9 : Classroom is full or Exam begins, need to wait for next exam.
+[2646]Student 3 : Classroom is full or Exam begins, need to wait for next exam.
+[2646]Student 1 : Classroom is full or Exam begins, need to wait for next exam.
+[2646]Student 7 : Classroom is full or Exam begins, need to wait for next exam.
+[2646]Student 8 : Classroom is full or Exam begins, need to wait for next exam.
+[2853]Student 6 : Classroom is full or Exam begins, need to wait for next exam.
+[3651]Instructor:----------------Exam 1 is begin-----------------
+[3651]Instructor: Assigning exam
+[3651]Instructor: Student 4 got the exam.
+[3651]Instructor: Student 12 got the exam.
+[3651]Instructor: Student 11 got the exam.
+[3652]Instructor: Student 10 got the exam.
+[3652]Instructor: Student 13 got the exam.
+[3652]Instructor: Student 14 got the exam.
+[3652]Instructor: Student 5 got the exam.
+[3652]Instructor: Student 2 got the exam.
+[6652]Instructor: Exam is end, please hand in exam.
+[6653]Instructor: Taking break.
+[6651]Student 10 : leaving classroom.
+[6651]Student 12 : leaving classroom.
+[6651]Student 2 : leaving classroom.
+[6651]Student 11 : leaving classroom.
+[6651]Student 4 : leaving classroom.
+[6651]Student 13 : leaving classroom.
+[6651]Student 14 : leaving classroom.
+[6651]Student 13 : Taking break.
+[6651]Student 4 : Taking break.
+[6651]Student 11 : Taking break.
+[6651]Student 2 : Taking break.
+[6651]Student 12 : Taking break.
+[6651]Student 10 : Taking break.
+[6651]Student 5 : leaving classroom.
+[6651]Student 14 : Taking break.
+[6652]Student 5 : Taking break.
+[9652]Student 13 : Enter the classroom, Classroom have 7 students.
+[9652]Student 4 : Enter the classroom, Classroom have 8 students.
+[9652]Student 11 : Classroom is full or Exam begins, need to wait for next exam.
+[9652]Student 2 : Classroom is full or Exam begins, need to wait for next exam.
+[9652]Student 12 : Classroom is full or Exam begins, need to wait for next exam.
+[9652]Student 10 : Classroom is full or Exam begins, need to wait for next exam.
+[9653]Student 14 : Classroom is full or Exam begins, need to wait for next exam.
+[9653]Student 5 : Classroom is full or Exam begins, need to wait for next exam.
+[12659]Instructor:----------------Exam 2 is begin-----------------
+[12659]Instructor: Assigning exam
+[12659]Instructor: Student 9 got the exam.
+[12659]Instructor: Student 3 got the exam.
+[12659]Instructor: Student 1 got the exam.
+[12659]Instructor: Student 7 got the exam.
+[12659]Instructor: Student 8 got the exam.
+[12659]Instructor: Student 6 got the exam.
+[12659]Instructor: Student 13 got the exam.
+[12659]Instructor: Student 4 got the exam.
+[15664]Instructor: Exam 2 is end, please hand in exam.
+[15664]Instructor: Taking break.
+[15662]Student 1 : leaving classroom.
+[15662]Student 6 : leaving classroom.
+[15662]Student 6 : Taking break.
+[15662]Student 4 : leaving classroom.
+[15662]Student 9 : leaving classroom.
+[15662]Student 7 : leaving classroom.
+[15662]Student 3 : leaving classroom.
+[15662]Student 7 : Taking break.
+[15662]Student 9 : Taking break.
+[15662]Student 4 : Taking break.
+[15662]Student 13 : leaving classroom.
+[15662]Student 8 : leaving classroom.
+[15662]Student 1 : Taking break.
+[15663]Student 8 : Taking break.
+[15663]Student 13 : Taking break.
+[15662]Student 3 : Taking break.
+[21673]Student 6 : Enter the classroom
+[21673]Student 1 : Enter the classroom
+[21673]Student 9 : Enter the classroom
+[21673]Student 7 : Enter the classroom
+[21673]Student 14 : Enter the classroom
+[21673]Student 11 : Enter the classroom
+[21673]Student 12 : Enter the classroom
+[21673]Student 2 : Enter the classroom
+[21673]Student 5 : Enter the classroom
+[21673]Student 3 : Enter the classroom
+[21673]Student 8 : Enter the classroom
+[21673]Student 10 : Enter the classroom
+[24675]Instructor:----------------Exam 3 is begin-----------------
+[24675]Instructor: Assigning exam
+[24675]Instructor: Student 6 got the exam.
+[24675]Instructor: Student 1 got the exam.
+[24675]Instructor: Student 9 got the exam.
+[24675]Instructor: Student 7 got the exam.
+[24675]Instructor: Student 14 got the exam.
+[24675]Instructor: Student 11 got the exam.
+[24675]Instructor: Student 12 got the exam.
+[24676]Instructor: Student 2 got the exam.
+[24676]Instructor: Student 5 got the exam.
+[24676]Instructor: Student 3 got the exam.
+[24676]Instructor: Student 8 got the exam.
+[24676]Instructor: Student 10 got the exam.
+[27680]Instructor: Exam 3 is end, please hand in exam.
+[27680]Instructor: Calculating the grade.
+[27678]Student 6 : Waiting instructor post grade.
+[27678]Student 9 : Waiting instructor post grade.
+[27678]Student 7 : Waiting instructor post grade.
+[27678]Student 14 : Waiting instructor post grade.
+[27678]Student 12 : Waiting instructor post grade.
+[27678]Student 5 : Waiting instructor post grade.
+[27678]Student 3 : Waiting instructor post grade.
+[27678]Student 8 : Waiting instructor post grade.
+[27678]Student 1 : Waiting instructor post grade.
+[27679]Student 4 : Waiting instructor post grade.
+[27678]Student 10 : Waiting instructor post grade.
+[27678]Student 2 : Waiting instructor post grade.
+[27678]Student 11 : Waiting instructor post grade.
+[27679]Student 13 : Waiting instructor post grade.
+[30681]Instructor:--------------Students Exam Grade-----------------
+StudentID Exam1 Exam2 Exam3 
+Student 1  0	77	57	 
+Student 2  46	0	72	 
+Student 3  0	99	70	 
+Student 4  19	44	0	 
+Student 5  15	0	62	 
+Student 6  0	78	36	 
+Student 7  0	34	29	 
+Student 8  0	48	17	 
+Student 9  0	29	76	 
+Student 10  69	0	25	 
+Student 11  81	0	24	 
+Student 12  15	0	74	 
+Student 13  63	86	0	 
+Student 14  65	0	55	 
+[30681]Student 6 : Group List: 
+[30682]Student 6 : Student 9
+[30682]Student 6 : Student 7
+[30682]Student 6 : Student 6
+[30682]Student 6 : Student 9 is leaving.
+[30682]Student 6 : Student 7 is leaving.
+[30682]Student 6 : Student 6 is leaving.
+[30682]Student 12 : Group List: 
+[30682]Student 12 : Student 14
+[30682]Student 12 : Student 5
+[30682]Student 12 : Student 12
+[30682]Student 12 : Student 14 is leaving.
+[30683]Student 12 : Student 5 is leaving.
+[30683]Student 12 : Student 12 is leaving.
+[30683]Student 1 : Group List: 
+[30683]Student 1 : Student 3
+[30683]Student 1 : Student 8
+[30683]Student 1 : Student 1
+[30683]Student 1 : Student 3 is leaving.
+[30683]Student 1 : Student 8 is leaving.
+[30683]Student 1 : Student 1 is leaving.
+[30683]Student 2 : Group List: 
+[30683]Student 2 : Student 4
+[30684]Student 2 : Student 10
+[30684]Student 2 : Student 2
+[30684]Student 2 : Student 4 is leaving.
+[30684]Student 2 : Student 10 is leaving.
+[30684]Student 2 : Student 2 is leaving.
+[30684]Student 13 : Group List: 
+[30684]Student 13 : Student 11
+[30684]Student 13 : Student 13
+[30684]Student 13 : Student 11 is leaving.
+[30684]Student 13 : Student 13 is leaving.
+[30688]MainThread: Is the Thread-1 is alive? false
+[30688]MainThread: Is the Thread-2 is alive? false
+[30688]MainThread: Is the Thread-3 is alive? false
+[30689]MainThread: Is the Thread-4 is alive? false
+[30689]MainThread: Is the Thread-5 is alive? false
+[30689]MainThread: Is the Thread-6 is alive? false
+[30689]MainThread: Is the Thread-7 is alive? false
+[30689]MainThread: Is the Thread-8 is alive? false
+[30689]MainThread: Is the Thread-9 is alive? false
+[30689]MainThread: Is the Thread-10 is alive? false
+[30689]MainThread: Is the Thread-11 is alive? false
+[30689]MainThread: Is the Thread-12 is alive? false
+[30689]MainThread: Is the Thread-13 is alive? false
+[30689]MainThread: Is the Thread-14 is alive? false
+[33688]MainThread: Instructor is going home.
+[33688]MainThread: -------------thread end----------------
